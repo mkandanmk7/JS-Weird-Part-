@@ -27,3 +27,5 @@ var me = {
   },
 };
 me.foo();
+
+console.log("hello world");
