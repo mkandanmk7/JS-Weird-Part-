@@ -9,6 +9,8 @@
 // }
 // foo();
 
+console.log("hello Weird Parts");
+
 var me = {
   firstName: "muthu",
   foo: function () {
